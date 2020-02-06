@@ -1,0 +1,109 @@
+.poster-wrapper {
+    width: 391.287px;
+    height: 730.4425px;
+    border: 1px solid rgb(0, 0, 0, 0.3);
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.left-content {
+    width: 48%;
+    height: 100%;
+}
+
+.orange-block-1 {
+    width: 30%;
+    height: 100%;
+    background-color: rgba(231, 80, 53, 0.98);
+}
+
+.orange-block-2 {
+    width: 30%;
+    height: 100%;
+    background-color: rgba(231, 80, 53, 0.98);
+    position: relative;
+    left: 35%;
+    bottom: 100%;
+}
+
+.orange-block-3 {
+    width: 30%;
+    height: 100%;
+    background-color: rgba(231, 80, 53, 0.98);
+    position: relative;
+    left: 70%;
+    bottom: 200%;
+}
+
+.right-content {
+    width: 52%;
+    height: 100%;
+    position: relative;
+    left: 48%;
+    bottom: 100%;
+}
+
+.top-greek-content {
+    position: relative;
+    font-size: 0.35em;
+    top: -2.4%;
+    left: 46%;
+    transform: rotate(-90deg);
+}
+
+.clarity-short-description-wrapper {
+    position: relative;
+    top: 23%;
+    left: 6%;
+
+}
+
+.clarity {
+    font-size: 3.8em;
+}
+
+.short-description {
+    position: relative;
+    top: -1.4vh;
+    left: 3%;
+    font-size: 0.58em;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+}
+
+.right-bottom-content {
+    position: relative;
+    top: 75%;
+    left: 6%;
+}
+
+.date-time-wrapper {
+    font-size: 1.3em;
+
+}
+
+.seventeen {
+    border-right: 5px solid rgba(231, 80, 53, 0.98);
+    padding-right: 5px;
+}
+
+.two {
+    position: relative;
+    left: -1%;
+}
+
+.bottom-greek-content-1 {
+    font-size: 0.78em;
+    padding-top: 0.4vh;
+}
+
+.bottom-greek-content-2 {
+    font-size: .38em;
+}
+
+.bottom-greek-content-3 {
+    font-size: .35em;
+}
